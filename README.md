@@ -14,13 +14,13 @@
 
 <p align="center">
 <samp>
-「 Fresher passionate about Backend Engineering, Cloud, and Building Scalable Systems 」
+「 Fresher passionate about AI/ML, NLP & Speech Systems, and Building Intelligent Solutions 」
 </samp>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=Software+Developer;Java+%7C+Spring+Boot+%7C+REST+APIs;MySQL+%7C+Redis+%7C+AWS;Building+Reliable+Systems+from+Day+One"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Python+%7C+PyTorch+%7C+scikit-learn;NLP+%7C+Speech+%7C+Deep+Learning;Turning+Data+into+Intelligent+Systems"
     alt="Typing SVG"
   />
 </p>
@@ -35,9 +35,9 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-  I'm a fresher passionate about <strong>Backend Engineering and Cloud Development</strong>.<br>
-  I love building REST APIs, designing secure systems, and deploying apps on the cloud.<br>
-  Currently building projects, learning every day, and open to exciting opportunities!
+  I'm a fresher passionate about <strong>AI/ML and Data Science</strong>.<br>
+  I love building end-to-end ML pipelines, working across NLP and speech systems, and turning data into insight.<br>
+  Currently researching low-resource ASR, learning every day, and open to exciting opportunities!
 </p>
 
 <br>
@@ -49,64 +49,60 @@
 <table border="0" cellspacing="10" cellpadding="0" align="center">
 <tr>
 
-<!-- Languages & Backend -->
+<!-- Languages & Version Control -->
 <td width="300" valign="top" align="center">
 
-<h3>💻 Languages & Backend</h3>
+<h3>💻 Languages & Version Control</h3>
 <br>
 
 <table align="center" cellspacing="0" cellpadding="8">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36"/><br><sub>Java</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="36"/><br><sub>Spring Boot</sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36"/><br><sub>Python</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="36"/><br><sub>Java</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36"/><br><sub>SQL</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36"/><br><sub>MySQL</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="36"/><br><sub>Redis</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="36"/><br><sub>Nginx</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/><br><sub>Git</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36"/><br><sub>GitHub</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36"/><br><sub>VS Code</sub></td>
   </tr>
 </table>
 
 </td>
 
-<!-- DevOps & Cloud -->
+<!-- Machine Learning -->
 <td width="300" valign="top" align="center">
 
-<h3>☁️ Cloud & DevOps</h3>
+<h3>🤖 Machine Learning</h3>
+<br>
+
+<table align="center" cellspacing="0" cellpadding="8">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="36"/><br><sub>PyTorch</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="36"/><br><sub>scikit-learn</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="36"/><br><sub>NumPy</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="36"/><br><sub>pandas</sub></td>
+  </tr>
+</table>
+
+</td>
+
+<!-- Cloud & Tools -->
+<td width="300" valign="top" align="center">
+
+<h3>☁️ Cloud & Tools</h3>
 <br>
 
 <table align="center" cellspacing="0" cellpadding="8">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="36"/><br><sub>AWS</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36"/><br><sub>Docker</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="36"/><br><sub>Bash</sub></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="36"/><br><sub>Linux</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="36"/><br><sub>Grafana</sub></td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="36"/><br><sub>Prometheus</sub></td>
-  </tr>
-</table>
-
-</td>
-
-<!-- Tools & Workflow -->
-<td width="300" valign="top" align="center">
-
-<h3>🔧 Tools & Workflow</h3>
-<br>
-
-<table align="center" cellspacing="0" cellpadding="8">
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="36"/><br><sub>Git</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="36"/><br><sub>GitHub</sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="36"/><br><sub>Postman</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36"/><br><sub>VS Code</sub></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="36"/><br><sub>IntelliJ</sub></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="36"/><br><sub>Maven</sub></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="36"/><br><sub>IntelliJ</sub></td>
   </tr>
 </table>
 
@@ -143,8 +139,10 @@
 
 | 🚀 Project | 📝 Description | 🛠 Stack |
 |---|---|---|
-| **[Library Management System](https://github.com/Susenther/library-management-system)** | A full-featured backend system with JWT-based authentication, role-based access control, Redis caching, and RESTful APIs for managing books and users. Deployed on AWS EC2. | Java, Spring Boot, MySQL, Redis, JWT, AWS EC2 |
-| **[Cloud File Storage](https://github.com/Susenther)** | A secure file storage service with upload, download, and delete operations backed by AWS S3. Features user-scoped storage and pre-signed URL generation. | Java, Spring Boot, AWS S3, MySQL |
+| **[Speech Emotion Recognition](https://github.com/Susenther)** | CNN-BiLSTM system classifying 8 emotion categories from speech audio, with log-mel spectrogram feature extraction and a speaker-independent split to prevent voice-identity leakage. Built during Data Science internship at Zidio Development. | Python, PyTorch, CNN-BiLSTM |
+| **[Low-Resource ASR: Whisper-Conformer](https://github.com/Susenther)** | Patent-filed hybrid ASR architecture combining Wav2Vec2-XLSR, a Conformer encoder, and Whisper-style seq2seq decoding, with LoRA accent adaptation and VITS-based TTS augmentation. Evaluated on Wolof, Kabyle, and Guarani. | PyTorch, Wav2Vec2, Conformer |
+| **[Customer Churn Prediction](https://github.com/Susenther)** | End-to-end churn pipeline on 7,000+ records comparing Logistic Regression, Random Forest, and XGBoost with 5-fold CV, achieving 0.838 ROC-AUC. Used SHAP for interpretability and framed evaluation around business cost asymmetry. | Python, XGBoost, SHAP, scikit-learn |
+| **[Sentiment Classification](https://github.com/Susenther)** | Compared a TF-IDF + SVM baseline against a BiLSTM trained from scratch on airline tweets, achieving 0.60 macro F1 vs 0.51, with a ~170x training/inference cost trade-off analysis. | Python, PyTorch, scikit-learn |
 
 ---
 
@@ -159,10 +157,10 @@
 I'm actively looking for opportunities in:
 
 <ul>
-  <li>☕ Java Backend Development</li>
-  <li>🔗 REST API Design & Development</li>
-  <li>☁️ Cloud-integrated Backend Systems (AWS)</li>
-  <li>🗄️ Database Design (MySQL, Redis)</li>
+  <li>🤖 Machine Learning / AI Engineering</li>
+  <li>🗣️ NLP & Speech Processing (ASR)</li>
+  <li>📊 Data Science & Analytics</li>
+  <li>☁️ Cloud-integrated ML Systems (AWS)</li>
   <li>🎓 Entry-level & fresher positions</li>
 </ul>
 
@@ -197,7 +195,7 @@ I'm actively looking for opportunities in:
 ---
 
 <p align="center">
-⚡ Fresher. Fast learner. Backend developer building one API at a time.
+⚡ Fresher. Fast learner. Turning data into intelligent systems, one model at a time.
 </p>
 <p align="center">
 Star ⭐ the repos if they helped you!
